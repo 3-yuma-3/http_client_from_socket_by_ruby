@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0
+Date: Sat, 27 Feb 2021 07:17:49 GMT
+Content-Type: text/html
+Content-Length: 163
+Connection: close
+Last-Modified: Mon, 16 Nov 2020 04:16:49 GMT
+Accept-Ranges: bytes
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+
+<html><head><META HTTP-EQUIV="Cache-control" CONTENT="no-cache"><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>
